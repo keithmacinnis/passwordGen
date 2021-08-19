@@ -4,7 +4,7 @@
 
 void randomizer(char *s, const int len) {
     static const char alphanum[] =
-        "0123456789!$"
+        "0123456789@.-_"
         "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
         "abcdefghijklmnopqrstuvwxyz";
 
